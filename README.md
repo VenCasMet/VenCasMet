@@ -141,7 +141,7 @@ Flutter • Dart • FastAPI • Python • Pillow
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VenCasMet&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=VenCasMet&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -149,13 +149,13 @@ Flutter • Dart • FastAPI • Python • Pillow
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenCasMet&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenCasMet&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenCasMet&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenCasMet&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VenCasMet&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=VenCasMet&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
